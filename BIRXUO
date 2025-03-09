@@ -14,104 +14,27 @@ $ ./initialization.sh
 > Access protocols verified
 > Establishing secure connection...
 > Connection established
-```
+$ whoami
+<p align="left"> <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=black" /> <img src="https://img.shields.io/badge/LOCATION-MOROCCO-00ff00?style=for-the-badge&logo=googleearth&logoColor=white&labelColor=black" /> <img src="https://img.shields.io/badge/FOCUS-SOFTWARE_ENGINEERING-00ff00?style=for-the-badge&logo=c&logoColor=white&labelColor=black" /> </p>
 
-## `$ whoami`
-
-<p align="left">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&logo=statuspage&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/LOCATION-MOROCCO-00ff00?style=for-the-badge&logo=googleearth&logoColor=white&labelColor=black" />
-  <img src="https://img.shields.io/badge/FOCUS-SOFTWARE_ENGINEERING-00ff00?style=for-the-badge&logo=c&logoColor=white&labelColor=black" />
-</p>
-
-```diff
 + Software Engineer from Morocco
 + Currently working on BIRXUO AI
 + Learning Machine Learning
 + Fun fact: IDGF
-```
-
-## `$ cat current_projects.log`
-
-- 🔭 Working on [BIRXUO AI](https://birxuo.vercel.app) `[STATUS: ACTIVE]`
-- 🌱 Researching **Machine Learning** `[STATUS: IN PROGRESS]`
-- 👨‍💻 Projects archive: [https://linkeer.vercel.app](https://linkeer.vercel.app) `[STATUS: ACCESSIBLE]`
-- 📝 Technical writings: [https://birxuo.framer.website/blog](https://birxuo.framer.website/blog) `[STATUS: UPDATING]`
-- 📄 Portfolio: [https://birxuo.framer.website](https://birxuo.framer.website) `[STATUS: ONLINE]`
-
-## `$ netstat -a | grep contact`
-
-<p align="left">
-  <code>MAIL: BIRXUO@HOTMAIL.COM</code>
-</p>
-
-## `$ ssh connect_profiles`
-
-<p align="left">
-<a href="https://codepen.io/birxuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="birxuo" height="30" width="40" /></a>
-<a href="https://dev.to/birxuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="birxuo" height="30" width="40" /></a>
-<a href="https://twitter.com/birxuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="birxuo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/birxuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="birxuo" height="30" width="40" /></a>
-<a href="https://fb.com/birxuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="birxuo" height="30" width="40" /></a>
-<a href="https://instagram.com/birxuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="birxuo" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/birxuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="birxuo" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/birxuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="birxuo" height="30" width="40" /></a>
-</p>
-
-## `$ ls -la /bin/tools/`
-
-<div align="center" style="background-color: #000; padding: 20px; border-radius: 5px;">
-  <table>
-    <tr>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></td>
-    </tr>
-    <tr>
-      <td><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></td>
-      <td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></td>
-      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></td>
-    </tr>
-  </table>
-</div>
-
-## `$ cat /var/log/system_stats.log`
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=birxuo&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="birxuo" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=birxuo&show_icons=true&locale=en&theme=chartreuse-dark" alt="birxuo" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=birxuo&theme=chartreuse-dark" alt="birxuo" />
-</div>
-
-<div align="center">
-  
-```
+$ cat current_projects.log
+🔭 Working on BIRXUO AI [STATUS: ACTIVE]
+🌱 Researching Machine Learning [STATUS: IN PROGRESS]
+👨‍💻 Projects archive: https://linkeer.vercel.app [STATUS: ACCESSIBLE]
+📝 Technical writings: https://birxuo.framer.website/blog [STATUS: UPDATING]
+📄 Portfolio: https://birxuo.framer.website [STATUS: ONLINE]
+$ netstat -a | grep contact
+<p align="left"> <code>MAIL: BIRXUO@HOTMAIL.COM</code> </p>
+$ ssh connect_profiles
+<p align="left"> <a href="https://codepen.io/birxuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="birxuo" height="30" width="40" /></a> <a href="https://dev.to/birxuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="birxuo" height="30" width="40" /></a> <a href="https://twitter.com/birxuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="birxuo" height="30" width="40" /></a> <a href="https://linkedin.com/in/birxuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="birxuo" height="30" width="40" /></a> <a href="https://fb.com/birxuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="birxuo" height="30" width="40" /></a> <a href="https://instagram.com/birxuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="birxuo" height="30" width="40" /></a> <a href="https://www.youtube.com/c/birxuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="birxuo" height="30" width="40" /></a> <a href="https://www.hackerearth.com/birxuo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="birxuo" height="30" width="40" /></a> </p>
+$ ls -la /bin/tools/
+<div align="center" style="background-color: #000; padding: 20px; border-radius: 5px;"> <table> <tr> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40"/></td> <td><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></td> </tr> <tr> <td><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/></td> <td><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/></td> <td><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/></td> <td><img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></td> </tr> <tr> <td><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></td> <td><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/></td> <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/></td> </tr> </table> </div>
+$ cat /var/log/system_stats.log
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=birxuo&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="birxuo" /> <img src="https://github-readme-stats.vercel.app/api?username=birxuo&show_icons=true&locale=en&theme=chartreuse-dark" alt="birxuo" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=birxuo&theme=chartreuse-dark" alt="birxuo" /> </div> <div align="center">
 Connection terminated...
 Session logged and encrypted.
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer&text=END%20OF%20TRANSMISSION&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=80" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=120&section=footer&text=END%20OF%20TRANSMISSION&fontSize=30&fontColor=FFFFFF&animation=fadeIn&fontAlignY=80" width="100%"/> </div> ```
